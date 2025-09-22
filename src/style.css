@@ -5,6 +5,8 @@
 @theme inline {
   --color-bg: var(--clr-gray-900);
   --color-fg: var(--clr-white);
+  --color-gray-700: var(--clr-gray-800);
+  --color-gray-400: var(--clr-gray-400);
   --color-accent: var(--clr-green-300);
   --font-grtesk: var(--font-grotest);
 }
